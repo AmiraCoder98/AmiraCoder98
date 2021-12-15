@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmiraCoder98
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Laravel 8 and wordpress
+- 🌱 I’m currently learning Laravel 8 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
